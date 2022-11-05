@@ -1,0 +1,2 @@
+.App{display:grid;height:100vh;place-items:center;width:100vw}form{display:flex;flex-direction:column;gap:5px;justify-content:center}input{height:50px;margin-bottom:2rem;width:500px}button,input{font-size:1.5rem}button{cursor:pointer;height:3rem}.employees{align-items:center;display:flex;flex-direction:column}.employee{border:2px solid gray;cursor:pointer;margin-bottom:1rem;width:40rem}.employee:first-child{margin-top:1rem}ul li{font-size:1.5rem;list-style:none;margin-bottom:20px}
+/*# sourceMappingURL=main.1e88f0fa.css.map*/
